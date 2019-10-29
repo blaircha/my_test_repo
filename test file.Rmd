@@ -1,5 +1,6 @@
 ---
 title: "test file"
+authors: "Jacky, Blair, Cheikh"
 output: html_document
 ---
 
