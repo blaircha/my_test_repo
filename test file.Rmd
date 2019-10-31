@@ -12,8 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Basic math
 ```{r}
 100/5 
-
-2+2 is 4, minus 1 that's 3, Quick Maths
 ```
 
 
+2+2 is 4, minus 1 that's 3, Quick Maths
